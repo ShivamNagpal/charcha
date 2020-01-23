@@ -10,6 +10,8 @@
 *.sublime-workspace
 .project
 .pydevproject
+.vs
+*.sln
 
 # IDE - VSCode
 .vscode
